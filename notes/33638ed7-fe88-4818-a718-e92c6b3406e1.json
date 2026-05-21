@@ -1,0 +1,130 @@
+{
+  "comments": [],
+  "uuid": "ffab7096-04f8-4892-96f6-f240f9b542b3",
+  "kind": "RootContainer",
+  "children": [
+    {
+      "uuid": "b37b3d7c-fc9d-4758-9322-6a2cf22d782b",
+      "kind": "FormteilContainer",
+      "children": [
+        {
+          "uuid": "97e153ee-90e0-4eee-b9d0-54698d4ff719",
+          "kind": "ZeileContainer",
+          "children": [
+            {
+              "uuid": "0d03cc7b-1154-45d9-9427-e507e7e6b443",
+              "kind": "Syllable",
+              "text": "syl-",
+              "syllableType": "Normal",
+              "notes": {
+                "spaced": [
+                  {
+                    "nonSpaced": [
+                      {
+                        "grouped": [
+                          {
+                            "uuid": "ea73f09e-a5fb-4ba9-af90-a94e21eebf1f",
+                            "base": "A",
+                            "liquescent": false,
+                            "noteType": "Normal",
+                            "octave": 4,
+                            "focus": false
+                          },
+                          {
+                            "uuid": "925cad31-eb3b-487c-bda3-53ab449abf78",
+                            "base": "B",
+                            "liquescent": false,
+                            "noteType": "Normal",
+                            "octave": 4,
+                            "focus": false
+                          }
+                        ]
+                      },
+                      {
+                        "grouped": [
+                          {
+                            "uuid": "6dcad633-abc8-4fc7-93d2-debe8256a164",
+                            "base": "A",
+                            "liquescent": false,
+                            "noteType": "Normal",
+                            "octave": 4,
+                            "focus": false
+                          }
+                        ]
+                      },
+                      {
+                        "grouped": [
+                          {
+                            "uuid": "05792756-5052-4981-8fe3-8148c1f314c9",
+                            "base": "F",
+                            "liquescent": false,
+                            "noteType": "Normal",
+                            "octave": 4,
+                            "focus": false
+                          }
+                        ]
+                      },
+                      {
+                        "grouped": [
+                          {
+                            "uuid": "c40098f5-2e79-47c4-8a63-9c46d28b9d83",
+                            "base": "F",
+                            "liquescent": false,
+                            "noteType": "Normal",
+                            "octave": 4,
+                            "focus": true
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "uuid": "6d84a585-3728-49ce-82e3-8738cdc3204f",
+              "kind": "Syllable",
+              "text": "la-",
+              "syllableType": "Normal",
+              "notes": {
+                "spaced": [
+                  {
+                    "nonSpaced": [
+                      {
+                        "grouped": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "uuid": "95b85b30-ca7e-4654-9018-1514e1d1f141",
+              "kind": "Syllable",
+              "text": "be",
+              "syllableType": "Normal",
+              "notes": {
+                "spaced": [
+                  {
+                    "nonSpaced": [
+                      {
+                        "grouped": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "data": [
+        {
+          "name": "Signatur",
+          "data": ""
+        }
+      ]
+    }
+  ],
+  "documentType": "Level1"
+}
