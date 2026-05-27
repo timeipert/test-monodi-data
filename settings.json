@@ -16,5 +16,58 @@
   "feier": [],
   "customSourceFields": [],
   "customDocumentFields": [],
-  "customLists": {}
+  "customLists": {},
+  "pdfScale": 0.45,
+  "pdfSyllableSpacing": 11,
+  "pdfVerticalSpace": 18,
+  "pdfMarginLeft": 100,
+  "pdfSignaturSpace": 0,
+  "pdfFontSize": 11,
+  "pdfTitleFontSize": 16,
+  "pdfTitleVerticalSpace": 18,
+  "pdfMetadataFontSize": 8,
+  "pdfMetadataVerticalSpace": 14,
+  "pdfCommentBlockGap": 14,
+  "pdfCommentFontSize": 11,
+  "pdfCommentTitleFontSize": 9,
+  "pdfCommentStaffScale": 0.45,
+  "pdfBracketWidth": 21,
+  "pdfBracketThickness": 0.5,
+  "pdfMarginTop": 100,
+  "pdfMarginBottom": 85,
+  "pdfMarginRight": 62,
+  "pdfStaffSpacing": 5,
+  "pdfBracketGap": 0,
+  "pdfBracketTick": 6,
+  "pdfSyllableTextOffset": 8,
+  "pdfTextBlockGap": 14,
+  "pdfCommentTreePadding": 4,
+  "pdfCommentTreeGap": 9,
+  "pdfHeaderSource": "textinitium",
+  "pdfShowPageNumbers": true,
+  "pdfHeadlineMetadataFields": [
+    "dokumenten_id",
+    "festtag",
+    "textinitium",
+    "gattung1",
+    "gattung2",
+    "feier"
+  ],
+  "pdfHeadlineFontSize": 8,
+  "pdfPageNumberFontSize": 8,
+  "pdfParatextFontSize": 10,
+  "pdfParatextSpacing": 5,
+  "pdfFontFamily": "times",
+  "genreLevelProfiles": [
+    {
+      "id": "9z4ji3yjo",
+      "gattung1": "Antiphon",
+      "gattung2": "",
+      "names": {
+        "level1": "Strophe",
+        "level2": "",
+        "level3": ""
+      }
+    }
+  ]
 }

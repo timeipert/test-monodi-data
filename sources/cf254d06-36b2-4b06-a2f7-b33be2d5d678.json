@@ -1,7 +1,7 @@
 {
   "id": "cf254d06-36b2-4b06-a2f7-b33be2d5d678",
-  "quellensigle": "Neue Testquelle",
-  "herkunftsregion": "",
+  "quellensigle": "Pa 1235",
+  "herkunftsregion": "...",
   "herkunftsort": "",
   "herkunftsinstitution": "",
   "ordenstradition": "",
@@ -11,5 +11,327 @@
   "bibliothekssignatur": "",
   "kommentar": "",
   "datierung": "12",
-  "custom": {}
+  "custom": {},
+  "iiifManifestUrl": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432301z/manifest.json",
+  "annotationRegions": [
+    {
+      "id": "r_43b48f96-a975-4b8a-96b9-d848d29b5a6d",
+      "name": "Line 1",
+      "points": "4.73,6.86 77.20,6.86 77.20,14.70 4.73,14.70",
+      "folio": "326"
+    },
+    {
+      "id": "r_d8d02c03-ed74-4992-b0dd-b5f2f37b30af",
+      "name": "Line 2",
+      "points": "3.63,12.72 78.82,12.72 78.82,19.14 3.63,19.14",
+      "folio": "326"
+    },
+    {
+      "id": "r_3376ec1f-9702-4ad2-b3cd-e0aec4a9be10",
+      "name": "Line 1",
+      "points": "25.28,7.32 97.69,7.32 97.69,15.23 25.28,15.23",
+      "folio": "247"
+    },
+    {
+      "id": "r_240ea77f-308e-432a-a7f6-1644284180da",
+      "name": "Line 1",
+      "points": "24.48,7.84 98.78,7.84 98.78,15.23 24.48,15.23",
+      "folio": "119"
+    }
+  ],
+  "annotationItems": [
+    {
+      "id": "item_4e842975-51b4-4f48-979c-7a96dd98346e",
+      "regionId": "r_d8d02c03-ed74-4992-b0dd-b5f2f37b30af",
+      "pattern": "[*du]",
+      "points": "48.44,13.67 50.87,13.67 50.87,15.74 48.44,15.74",
+      "uuid": "8c7eed0b-6cbd-4054-8ecd-96fe0660836a"
+    },
+    {
+      "id": "item_e1d7eb09-eb10-44c6-8858-94f2da16fb2f",
+      "regionId": "r_43b48f96-a975-4b8a-96b9-d848d29b5a6d",
+      "pattern": "*",
+      "points": "10.42,8.81 11.96,8.81 11.96,9.86 10.42,9.86"
+    },
+    {
+      "id": "item_c9f7fd0c-094e-4d7d-9220-c7926223028c",
+      "regionId": "r_43b48f96-a975-4b8a-96b9-d848d29b5a6d",
+      "pattern": "*",
+      "points": "16.19,9.45 18.27,9.45 18.27,10.33 16.19,10.33"
+    }
+  ],
+  "transcriptionAnnotations": [
+    {
+      "id": "ta_734a3b0b-e0cc-4221-9dbb-262345e7439d",
+      "folio": "248",
+      "type": "line",
+      "points": "6.53,7.75 6.71,7.87 6.89,7.52 25.03,7.32 42.98,6.44 66.62,6.39 70.54,6.06 72.21,6.50 78.09,6.56"
+    },
+    {
+      "id": "ta_3c392dfc-a4b5-4f7c-96b3-f70ddca08edb",
+      "folio": "248",
+      "type": "note",
+      "points": "45.03,6.00",
+      "isNeumeStart": true
+    },
+    {
+      "id": "ta_387bb5b7-4ba6-48c5-a182-a102e0b1a179",
+      "folio": "248",
+      "type": "note",
+      "points": "46.49,5.89",
+      "isNeumeStart": true
+    },
+    {
+      "id": "ta_c1fc6879-7e96-4859-99e6-f5ab4576b8d5",
+      "folio": "248",
+      "type": "note",
+      "points": "49.57,5.89",
+      "isNeumeStart": true
+    },
+    {
+      "id": "ta_a4e79d9e-4727-4260-a8b1-0fe76801bf29",
+      "folio": "248",
+      "type": "note",
+      "points": "52.48,6.56",
+      "isNeumeStart": true
+    },
+    {
+      "id": "ta_052a6e47-faff-4d90-b04a-71026fa3b148",
+      "folio": "248",
+      "type": "note",
+      "points": "54.28,7.18",
+      "isNeumeStart": true
+    },
+    {
+      "id": "ta_78584278-e855-4ab1-b82d-91cfda2449db",
+      "folio": "248",
+      "type": "note",
+      "points": "58.22,7.30",
+      "isNeumeStart": true
+    },
+    {
+      "id": "ta_a926c390-ca4d-418d-a092-62cc8880ea25",
+      "folio": "248",
+      "type": "note",
+      "points": "60.45,7.74",
+      "isNeumeStart": true
+    },
+    {
+      "id": "ta_e1ec0cbd-ad4c-4905-8c6f-494c0583acde",
+      "folio": "248",
+      "type": "note",
+      "points": "63.96,8.14",
+      "isNeumeStart": true
+    },
+    {
+      "id": "ta_a273b9ad-4311-49f3-a12f-43b4c848e261",
+      "folio": "248",
+      "type": "note",
+      "points": "66.44,7.69",
+      "isNeumeStart": true
+    },
+    {
+      "id": "ta_b9c5ad19-8b6e-4783-8b04-90a5961c1a58",
+      "folio": "248",
+      "type": "note",
+      "points": "67.56,7.18",
+      "isNeumeStart": true
+    },
+    {
+      "id": "ta_529b2e0a-1954-4f20-9d00-ea060fc804fe",
+      "folio": "248",
+      "type": "note",
+      "points": "71.07,8.14",
+      "isNeumeStart": true
+    },
+    {
+      "id": "ta_925b0516-522c-40a6-86b9-7330de7353e9",
+      "folio": "248",
+      "type": "note",
+      "points": "75.61,7.74",
+      "isNeumeStart": true
+    },
+    {
+      "id": "ta_9cea527b-aee0-41be-82bc-820780fcc46a",
+      "folio": "119",
+      "type": "line",
+      "points": "27.52,11.27 62.02,11.27 86.73,11.87"
+    },
+    {
+      "id": "ta_825c7d3e-673e-43f4-8a4a-cd058bef91a1",
+      "folio": "325",
+      "type": "line",
+      "points": "25.64,8.89 76.23,8.48 75.94,9.58 94.13,10.22"
+    },
+    {
+      "id": "ta_de5df97a-3071-405c-9baa-e989f7cb8abe",
+      "folio": "325",
+      "type": "clef_f",
+      "points": "24.48,8.98"
+    },
+    {
+      "id": "ta_062c2321-c8f8-4486-8997-db729bd8ed48",
+      "folio": "325",
+      "type": "note",
+      "points": "29.34,7.79"
+    },
+    {
+      "id": "ta_4738cf65-df20-43cc-a6e7-65e011a06fda",
+      "folio": "325",
+      "type": "note",
+      "points": "30.50,7.84"
+    },
+    {
+      "id": "ta_c1aee4cf-661b-4136-a2de-fcfab4962654",
+      "folio": "325",
+      "type": "note",
+      "points": "30.35,8.52"
+    },
+    {
+      "id": "ta_16df0df0-f7d1-4fc0-b5cd-6e1373819c2e",
+      "folio": "325",
+      "type": "note",
+      "points": "31.00,8.43"
+    },
+    {
+      "id": "ta_a442c050-1590-44b6-adb7-b311ff0673c8",
+      "folio": "325",
+      "type": "note",
+      "points": "32.60,8.94"
+    },
+    {
+      "id": "ta_15b26197-8ab5-40f3-a51c-39e785a9c1d0",
+      "folio": "325",
+      "type": "note",
+      "points": "35.06,8.34"
+    },
+    {
+      "id": "ta_ec461ca7-d3ea-4061-b45f-9036de658970",
+      "folio": "325",
+      "type": "note",
+      "points": "37.60,8.20"
+    },
+    {
+      "id": "ta_a32eb82e-c824-4468-a8be-9655932c03a3",
+      "folio": "325",
+      "type": "note",
+      "points": "42.60,8.07"
+    },
+    {
+      "id": "ta_082c4f7c-7943-4676-8948-ef8fbf119dcc",
+      "folio": "325",
+      "type": "note",
+      "points": "43.69,7.52"
+    },
+    {
+      "id": "ta_16c882c7-14e9-45c9-827a-878fc66437d7",
+      "folio": "325",
+      "type": "note",
+      "points": "44.05,8.16"
+    },
+    {
+      "id": "ta_aaf731e6-fa8f-4df1-b9da-e36d62f141c8",
+      "folio": "325",
+      "type": "note",
+      "points": "46.59,7.66"
+    },
+    {
+      "id": "ta_e6b47b81-5725-4964-aa59-777954e711bd",
+      "folio": "325",
+      "type": "note",
+      "points": "49.34,6.65"
+    },
+    {
+      "id": "ta_49b13502-371d-42ed-bf3e-7d2acf87629b",
+      "folio": "325",
+      "type": "note",
+      "points": "53.04,7.11"
+    },
+    {
+      "id": "ta_78f0466e-b99e-444c-ac70-b53bf126789e",
+      "folio": "325",
+      "type": "note",
+      "points": "55.50,7.61"
+    },
+    {
+      "id": "ta_2446b0d8-3e38-429e-9953-acf5c3fae1a4",
+      "folio": "119",
+      "type": "clef_c",
+      "points": "8.38,30.01",
+      "isNeumeStart": false,
+      "graphicalConnection": "gaped"
+    },
+    {
+      "id": "ta_406131d0-911d-4f4b-9c24-c64124ce4470",
+      "folio": "119",
+      "type": "region",
+      "points": "24.75,6.64",
+      "isNeumeStart": false,
+      "graphicalConnection": "gaped"
+    },
+    {
+      "id": "ta_fcc0505b-1acf-4ee6-94bd-f05b350e364f",
+      "folio": "119",
+      "type": "region",
+      "points": "25.55,8.01",
+      "isNeumeStart": false,
+      "graphicalConnection": "gaped"
+    },
+    {
+      "id": "ta_fe39b5ea-0c67-49c4-9a14-85e76e4e2d40",
+      "folio": "119",
+      "type": "region",
+      "points": "25.28,5.78",
+      "isNeumeStart": false,
+      "graphicalConnection": "gaped"
+    },
+    {
+      "id": "ta_c1a915c5-6ee8-4676-84bd-0d92d021bdab",
+      "folio": "119",
+      "type": "region",
+      "points": "20.75,5.75",
+      "isNeumeStart": false,
+      "graphicalConnection": "gaped"
+    },
+    {
+      "id": "ta_5aab1dc8-7da0-4267-9241-e0c2bb20912f",
+      "folio": "119",
+      "type": "region",
+      "points": "27.26,9.18",
+      "isNeumeStart": false,
+      "graphicalConnection": "gaped"
+    },
+    {
+      "id": "ta_b4bc3bfe-290a-4858-a938-b9a79c5d3775",
+      "folio": "119",
+      "type": "region",
+      "points": "27.26,9.18",
+      "isNeumeStart": false,
+      "graphicalConnection": "gaped"
+    },
+    {
+      "id": "ta_64f98745-82fa-45f4-b843-4c264300e523",
+      "folio": "119",
+      "type": "region",
+      "points": "27.26,9.18",
+      "isNeumeStart": false,
+      "graphicalConnection": "gaped"
+    },
+    {
+      "id": "ta_b029213b-c98d-4e53-b820-b58d7ae187c7",
+      "folio": "119",
+      "type": "region",
+      "points": "27.26,9.18",
+      "isNeumeStart": false,
+      "graphicalConnection": "gaped"
+    },
+    {
+      "id": "ta_c37a82e4-9493-42a9-9b77-eec6553d2aaa",
+      "folio": "119",
+      "type": "clef_c",
+      "points": "21.59,25.93",
+      "isNeumeStart": false,
+      "graphicalConnection": "gaped"
+    }
+  ]
 }

@@ -1,0 +1,70 @@
+{
+  "comments": [],
+  "uuid": "d73ad929-06ff-4a2c-85f4-a26ceb7b0e68",
+  "kind": "RootContainer",
+  "children": [
+    {
+      "uuid": "f32ecb24-e219-469c-a4e5-07a05b7de3f7",
+      "kind": "FormteilContainer",
+      "children": [
+        {
+          "uuid": "af3d380e-b274-4bc2-b1da-7f76f9c6372d",
+          "kind": "FormteilContainer",
+          "children": [
+            {
+              "uuid": "e1f43177-261e-4657-bc27-52968c1876bd",
+              "kind": "ZeileContainer",
+              "children": [
+                {
+                  "uuid": "800c8c79-6f84-4df7-bce0-f5b5989dd084",
+                  "kind": "Syllable",
+                  "text": "",
+                  "syllableType": "Normal",
+                  "notes": {
+                    "spaced": [
+                      {
+                        "nonSpaced": [
+                          {
+                            "grouped": [
+                              {
+                                "uuid": "839e3e79-6ac1-41f4-8362-a028e3961981",
+                                "base": "A",
+                                "liquescent": false,
+                                "noteType": "Normal",
+                                "octave": 4,
+                                "focus": true
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                },
+                {
+                  "uuid": "cf7e89e2-549c-4feb-aed9-47784962d297",
+                  "kind": "FolioChange",
+                  "focus": false,
+                  "text": "12r"
+                }
+              ]
+            }
+          ],
+          "data": [
+            {
+              "name": "Signatur",
+              "data": ""
+            }
+          ]
+        }
+      ],
+      "data": [
+        {
+          "name": "Signatur",
+          "data": ""
+        }
+      ]
+    }
+  ],
+  "documentType": "Level2"
+}
