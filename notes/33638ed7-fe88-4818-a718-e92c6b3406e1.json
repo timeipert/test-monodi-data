@@ -44,11 +44,11 @@
                         "grouped": [
                           {
                             "uuid": "6dcad633-abc8-4fc7-93d2-debe8256a164",
-                            "base": "A",
+                            "base": "B",
                             "liquescent": false,
                             "noteType": "Normal",
                             "octave": 4,
-                            "focus": false
+                            "focus": true
                           }
                         ]
                       },
@@ -68,11 +68,11 @@
                         "grouped": [
                           {
                             "uuid": "c40098f5-2e79-47c4-8a63-9c46d28b9d83",
-                            "base": "F",
+                            "base": "B",
                             "liquescent": false,
-                            "noteType": "Normal",
-                            "octave": 4,
-                            "focus": true
+                            "noteType": "Sharp",
+                            "octave": 3,
+                            "focus": false
                           }
                         ]
                       }

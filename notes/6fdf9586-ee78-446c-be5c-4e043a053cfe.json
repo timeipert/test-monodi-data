@@ -1,0 +1,64 @@
+{
+  "comments": [],
+  "uuid": "2a65121c-7750-4683-a999-fb9ad2d1b4b1",
+  "kind": "RootContainer",
+  "children": [
+    {
+      "uuid": "f2210197-fea7-4c42-bcef-44d985307272",
+      "kind": "FormteilContainer",
+      "children": [
+        {
+          "uuid": "02aa6d77-99b9-48cf-80eb-5c51a5f2a4e3",
+          "kind": "FormteilContainer",
+          "children": [
+            {
+              "uuid": "74d754db-4ff9-4ea2-b28e-a55454816581",
+              "kind": "ZeileContainer",
+              "children": [
+                {
+                  "uuid": "f7a7b397-53f1-4520-a5e5-211a04fe8545",
+                  "kind": "Syllable",
+                  "text": "",
+                  "syllableType": "Normal",
+                  "notes": {
+                    "spaced": [
+                      {
+                        "nonSpaced": [
+                          {
+                            "grouped": [
+                              {
+                                "uuid": "0733adb4-fcba-4a4a-b4f1-75fd0f16aa7d",
+                                "base": "A",
+                                "liquescent": false,
+                                "noteType": "Normal",
+                                "octave": 4,
+                                "focus": false
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          ],
+          "data": [
+            {
+              "name": "Signatur",
+              "data": ""
+            }
+          ]
+        }
+      ],
+      "data": [
+        {
+          "name": "Signatur",
+          "data": ""
+        }
+      ]
+    }
+  ],
+  "documentType": "Level2"
+}

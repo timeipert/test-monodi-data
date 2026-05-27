@@ -332,6 +332,92 @@
       "points": "21.59,25.93",
       "isNeumeStart": false,
       "graphicalConnection": "gaped"
+    },
+    {
+      "id": "ta_f99e0073-4fe3-4d9b-acf6-be82c25602fc",
+      "folio": "119",
+      "type": "line",
+      "points": "9.99,68.52 8.11,71.96 9.19,77.28 9.19,77.97 9.19,73.16 9.19,67.83 11.33,58.20"
+    },
+    {
+      "id": "ta_fd91acfa-e668-4de6-945c-c731f6c958ab",
+      "folio": "119",
+      "type": "note",
+      "points": "34.65,9.21",
+      "isNeumeStart": false,
+      "graphicalConnection": "gaped"
+    },
+    {
+      "id": "ta_0c97af1a-9a18-42a2-9aef-57d99a92157a",
+      "folio": "119",
+      "type": "note",
+      "points": "35.60,9.09",
+      "isNeumeStart": false,
+      "graphicalConnection": "gaped"
+    },
+    {
+      "id": "ta_df453017-2397-4368-9078-a85af9c7de2c",
+      "folio": "119",
+      "type": "note",
+      "points": "36.46,9.06",
+      "isNeumeStart": false,
+      "graphicalConnection": "gaped"
+    },
+    {
+      "id": "ta_a8d53213-6365-47e6-b469-4ac232390599",
+      "folio": "119",
+      "type": "note",
+      "points": "36.65,9.70",
+      "isNeumeStart": false,
+      "graphicalConnection": "gaped"
+    },
+    {
+      "id": "ta_3d4fd209-99b9-42e1-b91a-3cf8ac265964",
+      "folio": "119",
+      "type": "note",
+      "points": "36.65,10.22",
+      "isNeumeStart": false,
+      "graphicalConnection": "gaped"
+    },
+    {
+      "id": "ta_d195e557-0df6-43f1-b262-fa5b757cd99d",
+      "folio": "119",
+      "type": "note",
+      "points": "38.28,10.10",
+      "isNeumeStart": false,
+      "graphicalConnection": "gaped"
+    },
+    {
+      "id": "ta_7f08a0bf-0268-4926-99a3-5fb81b5d9a6d",
+      "folio": "119",
+      "type": "note",
+      "points": "37.75,10.65",
+      "isNeumeStart": false,
+      "graphicalConnection": "gaped"
+    },
+    {
+      "id": "ta_567ae097-9d0f-475b-9c0d-2e5ca422abef",
+      "folio": "119",
+      "type": "note",
+      "points": "40.57,10.04",
+      "isNeumeStart": false,
+      "graphicalConnection": "gaped"
+    },
+    {
+      "id": "ta_f0d10fd4-9579-4c89-b724-bb983fae145f",
+      "folio": "119",
+      "type": "note",
+      "points": "41.62,9.03",
+      "isNeumeStart": false,
+      "graphicalConnection": "gaped"
+    },
+    {
+      "id": "ta_e68f7160-d5c6-40be-9973-2a56a6c320a7",
+      "folio": "119",
+      "type": "note",
+      "points": "30.35,11.42",
+      "isNeumeStart": false,
+      "graphicalConnection": "gaped"
     }
   ]
 }
