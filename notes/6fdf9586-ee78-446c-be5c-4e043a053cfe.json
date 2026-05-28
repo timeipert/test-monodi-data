@@ -8,6 +8,13 @@
       "kind": "FormteilContainer",
       "children": [
         {
+          "uuid": "e46a0dc4-05f3-4c4b-9896-0e1f7e30a169",
+          "kind": "ParatextContainer",
+          "text": "",
+          "retro": false,
+          "paratextType": "Formteil"
+        },
+        {
           "uuid": "02aa6d77-99b9-48cf-80eb-5c51a5f2a4e3",
           "kind": "FormteilContainer",
           "children": [
